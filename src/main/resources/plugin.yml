@@ -1,0 +1,5 @@
+name: BungeeCordAdventureDemo
+author: ChimpGamer
+version: ${version}
+main: nl.chimpgamer.bungeecordadventuredemo.DemoPlugin
+description: Demo Plugin
